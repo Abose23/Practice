@@ -14,7 +14,7 @@ This is my practice for using **Github** and different syntax
 5. Professors
 
 ## Who Will Win The Super Bowl
-Cheifs ☹️
+~~49ers~~ Cheifs ☹️
 
 ## Semester Check List
 - [x] Fall 2021
